@@ -1,0 +1,87 @@
+### info : P1 se bloque => [P1]
+### info : P25 se bloque => [P1, P25]
+### info : P29 se bloque => [P1, P25, P29]
+### info : P26 se bloque => [P1, P25, P29, P26]
+### info : P28 se bloque => [P1, P25, P29, P26, P28]
+### info : P27 se bloque => [P1, P25, P29, P26, P28, P27]
+### info : P21 se bloque => [P1, P25, P29, P26, P28, P27, P21]
+### info : P24 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24]
+### info : P23 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23]
+### info : P22 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22]
+### info : P20 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20]
+### info : P19 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19]
+### info : P18 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18]
+### info : P17 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17]
+### info : P16 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16]
+### info : P15 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15]
+### info : P14 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14]
+### info : P13 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13]
+### info : P12 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12]
+### info : P11 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11]
+### info : P10 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10]
+### info : P9 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9]
+### info : P8 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8]
+### info : P7 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7]
+### info : P6 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6]
+### info : P5 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5]
+### info : P2 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2]
+### info : P4 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4]
+### info : P3 se bloque => [P1, P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P0 envoie une notification!
+### info : P1 se réveille => [P25, P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P1 envoie une notification!
+### info : P25 se réveille => [P29, P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P25 envoie une notification!
+### info : P29 se réveille => [P26, P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P29 envoie une notification!
+### info : P26 se réveille => [P28, P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P26 envoie une notification!
+### info : P28 se réveille => [P27, P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P28 envoie une notification!
+### info : P27 se réveille => [P21, P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P27 envoie une notification!
+### info : P21 se réveille => [P24, P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P21 envoie une notification!
+### info : P24 se réveille => [P23, P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P24 envoie une notification!
+### info : P23 se réveille => [P22, P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P23 envoie une notification!
+### info : P22 se réveille => [P20, P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P22 envoie une notification!
+### info : P20 se réveille => [P19, P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P20 envoie une notification!
+### info : P19 se réveille => [P18, P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P19 envoie une notification!
+### info : P18 se réveille => [P17, P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P18 envoie une notification!
+### info : P17 se réveille => [P16, P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P17 envoie une notification!
+### info : P16 se réveille => [P15, P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P16 envoie une notification!
+### info : P15 se réveille => [P14, P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P15 envoie une notification!
+### info : P14 se réveille => [P13, P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P14 envoie une notification!
+### info : P13 se réveille => [P12, P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P13 envoie une notification!
+### info : P12 se réveille => [P11, P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P12 envoie une notification!
+### info : P11 se réveille => [P10, P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P11 envoie une notification!
+### info : P10 se réveille => [P9, P8, P7, P6, P5, P2, P4, P3]
+### info : P10 envoie une notification!
+### info : P9 se réveille => [P8, P7, P6, P5, P2, P4, P3]
+### info : P9 envoie une notification!
+### info : P8 se réveille => [P7, P6, P5, P2, P4, P3]
+### info : P8 envoie une notification!
+### info : P7 se réveille => [P6, P5, P2, P4, P3]
+### info : P7 envoie une notification!
+### info : P6 se réveille => [P5, P2, P4, P3]
+### info : P6 envoie une notification!
+### info : P5 se réveille => [P2, P4, P3]
+### info : P5 envoie une notification!
+### info : P2 se réveille => [P4, P3]
+### info : P2 envoie une notification!
+### info : P4 se réveille => [P3]
+### info : P4 envoie une notification!
+### info : P3 se réveille => []
